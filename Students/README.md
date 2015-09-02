@@ -54,7 +54,7 @@
 * Eloi Tarango, fabian.tarango, [fabiantarango](https://github.com/fabiantarango)
 * Weston Torti, tort115, [westort](https://github.com/westort/)
 * Clarissa Tovias, toviasc
-* Michael Walker, mgwalker95
+* Michael Walker, mgwalker95, [mgwalker95](https://github.com/mgwalker95/)
 * Charles Wallace, chaswallace3, [chaswallace3](https://github.com/chaswallace3/)
 * Fletcher Watts, augustus1994, [augustus1994](https://github.com/augustus1994/)
 * Craig Wolf, dallascowboys10, [CraigWolf10](https://github.com/CraigWolf10)
